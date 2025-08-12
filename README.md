@@ -1,4 +1,4 @@
-# 🔍 K-Nearest Neighbors (KNN) Classification — Iris Dataset
+# 🔍 K-Nearest Neighbors (KNN) Classification
 
 ## 📌 Overview
 The objective is to implement the **K-Nearest Neighbors (KNN)** algorithm for classification, experiment with different values of K, evaluate model performance, and visualize decision boundaries.  
